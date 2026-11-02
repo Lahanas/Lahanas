@@ -1,4 +1,4 @@
-<h1 align="center">hi, my name is anas</h1>
+<h1 align="center">Hi, my name is Anas</h1>
 
 <p align="center">
 full-stack software engineer · security-minded · robotics-built<br>
