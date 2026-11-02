@@ -1,14 +1,15 @@
-<h1 align="left">anas lahna</h1>
+<h1 align="left">hi, i'm anas</h1>
 
+security engineer · software engineer · robotics enthusiast
 b.eng. computer engineering — concordia university, montreal
 
-[linkedin](https://linkedin.com/in/anas-lahna) · [email](mailto:anas.lahna19@gmail.com)
+### breaking systems, building software, rebuilding robots
 
 ---
 
 ### focus
-backend · infra · full-stack
-building the parts users never see, so they never have to think about them
+security · backend · robotics
+breaking things to understand them, building things that don't break
 
 ### training
 swim · bike · run · repeat
@@ -28,3 +29,8 @@ leave it better than you found it
 **AI Medical Chatbot** — RAG-based medical Q&A system. LangChain + Pinecone for retrieval, LLaMA 3 via Groq for generation, Flask for the app.
 
 **AI Resume Analyzer** — resume analyzer, in progress. React Router, TypeScript, Vite.
+
+---
+
+### contact
+[linkedin](https://linkedin.com/in/anas-lahna) · [email](mailto:anas.lahna19@gmail.com)
