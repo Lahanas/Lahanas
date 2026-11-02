@@ -2,7 +2,13 @@
 
 <p align="center">b.eng. computer engineering — concordia university, montreal</p>
 
-<h3 align="center">hack · engineer · ship</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=hack+%C2%B7+engineer+%C2%B7+ship&repeat=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1A1A1A&center=true&vCenter=true&width=440&lines=hack+%C2%B7+engineer+%C2%B7+ship&repeat=false" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1A1A1A&center=true&vCenter=true&width=440&lines=hack+%C2%B7+engineer+%C2%B7+ship&repeat=false" alt="hack · engineer · ship" />
+  </picture>
+</p>
 
 ---
 
