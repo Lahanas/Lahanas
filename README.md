@@ -14,9 +14,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=FFFFFF&center=true&vCenter=true&width=500&lines=training+for+the+next+race;shipping+something+new;breaking+things+on+purpose" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=4B4B4B&center=true&vCenter=true&width=500&lines=training+for+the+next+race;shipping+something+new;breaking+things+on+purpose" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=4B4B4B&center=true&vCenter=true&width=500&lines=training+for+the+next+race;shipping+something+new;breaking+things+on+purpose" alt="status" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=FFFFFF&center=true&vCenter=true&width=500&lines=building+systems+that+scale;automating+the+boring+parts;breaking+things+to+understand+them" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=4B4B4B&center=true&vCenter=true&width=500&lines=building+systems+that+scale;automating+the+boring+parts;breaking+things+to+understand+them" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=4B4B4B&center=true&vCenter=true&width=500&lines=building+systems+that+scale;automating+the+boring+parts;breaking+things+to+understand+them" alt="status" />
   </picture>
 </p>
 
