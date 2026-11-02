@@ -7,18 +7,22 @@ b.eng. computer engineering — concordia university, montreal
 
 ---
 
+### learning
+security · robotics · systems · networks
+how things break · how to build them back
+
 ### focus
 security · backend · robotics
-breaking things to understand them, building things that don't break
+break it before someone else does
 
 ### training
-swim · bike · run · repeat
-ironman finisher — montreal based, always chasing the next race or the next city
+swim · bike · run · travel
+miles that don't make sense until race day
 
 ### beliefs
-ai writes the code now — judgment is still on you
-the fundamentals don't get automated
-stay adaptable, the stack won't stop changing
+systems fail. people adapt.
+break it to understand it, build it so it holds.
+leave it better than you found it.
 
 ---
 
