@@ -36,3 +36,5 @@ leave it better than you found it
 [linkedin](https://linkedin.com/in/anas-lahna) · [email](mailto:anas.lahna19@gmail.com)
 
 Built with ❤️ in Montreal.
+
+Based in Montreal, QC.
