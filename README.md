@@ -12,7 +12,17 @@
   </picture>
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=FFFFFF&center=true&vCenter=true&width=500&lines=training+for+the+next+race;shipping+something+new;breaking+things+on+purpose" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=4B4B4B&center=true&vCenter=true&width=500&lines=training+for+the+next+race;shipping+something+new;breaking+things+on+purpose" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&pause=1800&color=4B4B4B&center=true&vCenter=true&width=500&lines=training+for+the+next+race;shipping+something+new;breaking+things+on+purpose" alt="status" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=30&section=footer" alt="divider" />
+</p>
 
 ### 🧠 learning
 security · robotics · systems · networks<br>
@@ -31,11 +41,15 @@ systems fail. people adapt.
 break it to understand it, build it so it holds.
 leave it better than you found it.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=30&section=header" alt="divider" />
+</p>
 
 ![](https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,postgresql,git)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=30&section=footer" alt="divider" />
+</p>
 
 ### 📬 contact
 [linkedin](https://linkedin.com/in/anas-lahna) · [email](mailto:anas.lahna19@gmail.com)
