@@ -1,4 +1,6 @@
-<h1 align="center">Hi, my name is Anas</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Hi,%20I'm%20Anas&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=security%20·%20software%20·%20robotics&descAlign=50&descAlignY=58&descSize=18" alt="header" />
+</p>
 
 <p align="center">b.eng. computer engineering — concordia university, montreal</p>
 
@@ -33,25 +35,13 @@ leave it better than you found it.
 
 ![](https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,postgresql,git)
 
-### 🚀 projects
-
-**AI Medical Chatbot** — RAG-based medical Q&A system. LangChain + Pinecone for retrieval, LLaMA 3 via Groq for generation, Flask for the app.
-
-**AI Resume Analyzer** — resume analyzer, in progress. React Router, TypeScript, Vite.
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Lahanas&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Lahanas&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" />
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Lahanas&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" />
-  </picture>
-</p>
-
 ---
 
 ### 📬 contact
 [linkedin](https://linkedin.com/in/anas-lahna) · [email](mailto:anas.lahna19@gmail.com)
 
 open to software, security, and robotics engineering roles
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" alt="footer" />
+</p>
