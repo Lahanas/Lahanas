@@ -12,19 +12,19 @@
 
 ---
 
-### learning
+### 🧠 learning
 security · robotics · systems · networks<br>
-how things break · how to build them back
+how things break — and how to build them back stronger
 
-### focus
+### 🛠️ focus
 security · backend · robotics<br>
 break it before someone else does
 
-### training
+### 🏃 training
 swim · bike · run · travel<br>
-the discipline that finishes a race is the discipline that finishes the work
+what stays after the finish line: discipline
 
-### beliefs
+### 🧭 beliefs
 systems fail. people adapt.
 break it to understand it, build it so it holds.
 leave it better than you found it.
@@ -33,7 +33,7 @@ leave it better than you found it.
 
 ![](https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,postgresql,git)
 
-### projects
+### 🚀 projects
 
 **AI Medical Chatbot** — RAG-based medical Q&A system. LangChain + Pinecone for retrieval, LLaMA 3 via Groq for generation, Flask for the app.
 
@@ -41,5 +41,13 @@ leave it better than you found it.
 
 ---
 
-### contact
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lahanas/Lahanas/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lahanas/Lahanas/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Lahanas/Lahanas/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+### 📬 contact
 [linkedin](https://linkedin.com/in/anas-lahna) · [email](mailto:anas.lahna19@gmail.com)
