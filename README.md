@@ -17,8 +17,8 @@ security · robotics · systems · networks<br>
 how things break — and how to build them back stronger
 
 ### 🛠️ focus
-security · backend · robotics<br>
-break it before someone else does
+security · backend · robotics · performance<br>
+break it before someone else does, build it to scale
 
 ### 🏃 training
 swim · bike · run · travel<br>
@@ -41,13 +41,17 @@ leave it better than you found it.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lahanas/Lahanas/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lahanas/Lahanas/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Lahanas/Lahanas/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Lahanas&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Lahanas&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" />
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=Lahanas&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4" />
+  </picture>
+</p>
 
 ---
 
 ### 📬 contact
 [linkedin](https://linkedin.com/in/anas-lahna) · [email](mailto:anas.lahna19@gmail.com)
+
+open to software, security, and robotics engineering roles
