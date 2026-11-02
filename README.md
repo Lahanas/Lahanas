@@ -1,23 +1,27 @@
-<h1 align="left">hi, i'm anas</h1>
+<h1 align="center">hi, my name is anas</h1>
 
-security engineer · software engineer · robotics enthusiast
-b.eng. computer engineering — concordia university, montreal
+<p align="center">
+full-stack software engineer · security-minded · robotics-built<br>
+comfortable anywhere in the stack — embedded, infra, backend, or the app on top
+</p>
+
+<p align="center">b.eng. computer engineering — concordia university, montreal</p>
 
 ### breaking systems, building software, rebuilding robots
 
 ---
 
 ### learning
-security · robotics · systems · networks
+security · robotics · systems · networks<br>
 how things break · how to build them back
 
 ### focus
-security · backend · robotics
+security · backend · robotics<br>
 break it before someone else does
 
 ### training
-swim · bike · run · travel
-miles that don't make sense until race day
+swim · bike · run · travel<br>
+the discipline that finishes a race is the discipline that finishes the work
 
 ### beliefs
 systems fail. people adapt.
