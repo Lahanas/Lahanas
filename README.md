@@ -45,7 +45,7 @@ leave it better than you found it.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=30&section=header" alt="divider" />
 </p>
 
-![](https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,postgresql,git)
+![](https://skillicons.dev/icons?i=cpp,java,python,js,ts,css,react,nodejs,postgresql,mongodb,kubernetes,git)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=30&section=footer" alt="divider" />
