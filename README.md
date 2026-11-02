@@ -16,9 +16,9 @@ swim · bike · run · repeat
 ironman finisher — montreal based, always chasing the next race or the next city
 
 ### beliefs
-discipline compounds — in training and in code
-reps beat shortcuts
-leave it better than you found it
+ai writes the code now — judgment is still on you
+the fundamentals don't get automated
+stay adaptable, the stack won't stop changing
 
 ---
 
