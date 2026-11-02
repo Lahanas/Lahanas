@@ -34,3 +34,5 @@ leave it better than you found it
 
 ### contact
 [linkedin](https://linkedin.com/in/anas-lahna) · [email](mailto:anas.lahna19@gmail.com)
+
+Built with ❤️ in Montreal.
