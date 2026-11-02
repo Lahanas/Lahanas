@@ -1,13 +1,8 @@
 <h1 align="center">Hi, my name is Anas</h1>
 
-<p align="center">
-full-stack software engineer · security-minded · robotics-built<br>
-comfortable anywhere in the stack — embedded, infra, backend, or the app on top
-</p>
-
 <p align="center">b.eng. computer engineering — concordia university, montreal</p>
 
-### breaking systems, building software, rebuilding robots
+<h3 align="center">hack · engineer · ship</h3>
 
 ---
 
@@ -30,7 +25,7 @@ leave it better than you found it.
 
 ---
 
-![](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,postgresql,git)
+![](https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,postgresql,git)
 
 ### projects
 
