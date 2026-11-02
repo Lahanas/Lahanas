@@ -41,6 +41,10 @@ systems fail. people adapt.
 break it to understand it, build it so it holds.
 leave it better than you found it.
 
+### 🚀 projects
+[**AI Medical Chatbot**](https://github.com/Lahanas/AI-Medical-Chatbot-main) — RAG pipeline: LangChain + Pinecone for retrieval, LLaMA 3 (Groq) for generation, served via Flask<br>
+[**AI Resume Analyzer**](https://github.com/Lahanas/ai-resume-analyzer) — resume parsing & feedback tool, React Router + TypeScript + Vite
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=30&section=header" alt="divider" />
 </p>
